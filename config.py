@@ -4,8 +4,7 @@ import os
 USERNAME = 'temp@abc.com'
 PASSWORD = 'JatinPatel'
 COURSES = [
-    'ios-development-security',
-    'learning-autodesk-inventor'
+    'l-essentiel-de-power-bi-2',
 ]
 
 COLLECTIONS = [

@@ -1,10 +1,10 @@
 import os
 
 # EDIT
-USERNAME = 'temp@abc.com'
-PASSWORD = 'JatinPatel'
+USERNAME = 'jatin@teenenggr.com'
+PASSWORD = 'IDontKnow'
 COURSES = [
-    'l-essentiel-de-power-bi-2',
+    'l-essentiel-de-power-bi-2'
 ]
 
 COLLECTIONS = [
